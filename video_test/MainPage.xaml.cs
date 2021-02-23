@@ -29,7 +29,7 @@ namespace video_test
             this.lib_vlc = new LibVLC("--no-sub-autodetect-file", "--sub-track=100");
 
             this.create_video_view();
-            this.init_video();
+            this.init_video(false);
         }
 
         public void create_video_view() {
@@ -45,7 +45,7 @@ namespace video_test
 
         private Media last_media;
 
-        public void init_video() {
+        public void init_video(bool reset=true) {
             VideoView web = (VideoView)this.container.Children[0];
 
             if(this.video_index >= this.playlist.Count) {
@@ -55,10 +55,10 @@ namespace video_test
                         
             Uri uri = new Uri(path);
             bool set_end = false;
-            bool reset = true;
-            if(web.MediaPlayer == null) {
+            //bool reset = true;
+            /*if(web.MediaPlayer == null) {
                 reset = false;
-            }
+            }*/
 
             
             using(Media media = new Media(this.lib_vlc, uri)) {
