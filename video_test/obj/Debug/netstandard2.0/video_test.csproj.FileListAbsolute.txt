@@ -1,0 +1,13 @@
+/Users/siggi/Projects/video_test/video_test/bin/Debug/netstandard2.0/video_test.deps.json
+/Users/siggi/Projects/video_test/video_test/bin/Debug/netstandard2.0/video_test.dll
+/Users/siggi/Projects/video_test/video_test/bin/Debug/netstandard2.0/ref/video_test.dll
+/Users/siggi/Projects/video_test/video_test/bin/Debug/netstandard2.0/video_test.pdb
+/Users/siggi/Projects/video_test/video_test/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/siggi/Projects/video_test/video_test/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/siggi/Projects/video_test/video_test/obj/Debug/netstandard2.0/video_test.AssemblyInfoInputs.cache
+/Users/siggi/Projects/video_test/video_test/obj/Debug/netstandard2.0/video_test.AssemblyInfo.cs
+/Users/siggi/Projects/video_test/video_test/obj/Debug/netstandard2.0/video_test.csproj.CoreCompileInputs.cache
+/Users/siggi/Projects/video_test/video_test/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/siggi/Projects/video_test/video_test/obj/Debug/netstandard2.0/video_test.dll
+/Users/siggi/Projects/video_test/video_test/obj/Debug/netstandard2.0/ref/video_test.dll
+/Users/siggi/Projects/video_test/video_test/obj/Debug/netstandard2.0/video_test.pdb

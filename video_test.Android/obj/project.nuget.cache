@@ -1,0 +1,71 @@
+{
+  "version": 2,
+  "dgSpecHash": "lejG4vPAmz2bImiNEXQafdwVo3KHUqWe5BUv86N8/BSKZ0umaIL38byS9KsOptbBGUvxNakG1nHgXi2kBk6/NQ==",
+  "success": true,
+  "projectFilePath": "/Users/siggi/Projects/video_test/video_test.Android/video_test.Android.csproj",
+  "expectedPackageFiles": [
+    "/Users/siggi/.nuget/packages/libvlcsharp/3.4.9/libvlcsharp.3.4.9.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/libvlcsharp.forms/3.4.9/libvlcsharp.forms.3.4.9.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.arch.core.common/1.1.1.3/xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.arch.core.runtime/1.1.1.3/xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.arch.lifecycle.common/1.1.1.3/xamarin.android.arch.lifecycle.common.1.1.1.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.arch.lifecycle.livedata/1.1.1.3/xamarin.android.arch.lifecycle.livedata.1.1.1.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.arch.lifecycle.livedata.core/1.1.1.3/xamarin.android.arch.lifecycle.livedata.core.1.1.1.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.arch.lifecycle.runtime/1.1.1.3/xamarin.android.arch.lifecycle.runtime.1.1.1.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.arch.lifecycle.viewmodel/1.1.1.3/xamarin.android.arch.lifecycle.viewmodel.1.1.1.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.animated.vector.drawable/28.0.0.3/xamarin.android.support.animated.vector.drawable.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.annotations/28.0.0.3/xamarin.android.support.annotations.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.asynclayoutinflater/28.0.0.3/xamarin.android.support.asynclayoutinflater.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.collections/28.0.0.3/xamarin.android.support.collections.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.compat/28.0.0.3/xamarin.android.support.compat.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.coordinaterlayout/28.0.0.3/xamarin.android.support.coordinaterlayout.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.core.ui/28.0.0.3/xamarin.android.support.core.ui.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.core.utils/28.0.0.3/xamarin.android.support.core.utils.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.cursoradapter/28.0.0.3/xamarin.android.support.cursoradapter.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.customtabs/28.0.0.3/xamarin.android.support.customtabs.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.customview/28.0.0.3/xamarin.android.support.customview.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.design/28.0.0.3/xamarin.android.support.design.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.documentfile/28.0.0.3/xamarin.android.support.documentfile.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.drawerlayout/28.0.0.3/xamarin.android.support.drawerlayout.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.fragment/28.0.0.3/xamarin.android.support.fragment.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.interpolator/28.0.0.3/xamarin.android.support.interpolator.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.loader/28.0.0.3/xamarin.android.support.loader.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.localbroadcastmanager/28.0.0.3/xamarin.android.support.localbroadcastmanager.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.media.compat/28.0.0.3/xamarin.android.support.media.compat.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.print/28.0.0.3/xamarin.android.support.print.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.slidingpanelayout/28.0.0.3/xamarin.android.support.slidingpanelayout.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.swiperefreshlayout/28.0.0.3/xamarin.android.support.swiperefreshlayout.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.transition/28.0.0.3/xamarin.android.support.transition.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.v4/28.0.0.3/xamarin.android.support.v4.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.v7.appcompat/28.0.0.3/xamarin.android.support.v7.appcompat.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.v7.cardview/28.0.0.3/xamarin.android.support.v7.cardview.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.v7.recyclerview/28.0.0.3/xamarin.android.support.v7.recyclerview.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.vector.drawable/28.0.0.3/xamarin.android.support.vector.drawable.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.versionedparcelable/28.0.0.3/xamarin.android.support.versionedparcelable.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.android.support.viewpager/28.0.0.3/xamarin.android.support.viewpager.28.0.0.3.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/siggi/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Essentials from 1.6.1 to 1.5.3.2. Reference the package directly from the project to select a different version. \n video_test.Android -> video_test -> Xamarin.Essentials (>= 1.6.1) \n video_test.Android -> Xamarin.Essentials (>= 1.5.3.2)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "MonoAndroid,Version=v9.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 5.0.0.2012 to 4.6.0.1141. Reference the package directly from the project to select a different version. \n video_test.Android -> video_test -> Xamarin.Forms (>= 5.0.0.2012) \n video_test.Android -> Xamarin.Forms (>= 4.6.0.1141)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "MonoAndroid,Version=v9.0"
+      ]
+    }
+  ]
+}

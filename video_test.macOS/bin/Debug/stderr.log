@@ -1,0 +1,5 @@
+[mpeg4 @ 0x7fb161715c00] low_delay flag set incorrectly, clearing it
+[src/libmpg123/layer1.c:30] error: Illegal bit allocation value.
+[src/libmpg123/layer1.c:174] error: Aborting layer I decoding after step one.
+
+[mpeg4 @ 0x7fb153ae8a00] low_delay flag set incorrectly, clearing it
