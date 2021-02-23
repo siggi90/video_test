@@ -55,7 +55,7 @@ namespace video_test
                         
             Uri uri = new Uri(path);
             bool set_end = false;
-            bool reset = false;
+            bool reset = true;
             if(web.MediaPlayer == null) {
                 reset = false;
             }
