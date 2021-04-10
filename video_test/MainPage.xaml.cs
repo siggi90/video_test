@@ -43,7 +43,7 @@ namespace video_test
 
         private int video_index = 0;
 
-        private Media last_media;
+        //private Media last_media;
 
         public void init_video(bool reset=true) {
             VideoView web = (VideoView)this.container.Children[0];
@@ -67,19 +67,20 @@ namespace video_test
                 media.AddOption("--sub-track=100");
                 media.AddOption("--freetype-opacity=0");
 
-                if(this.last_media != null) {
+                /*if(this.last_media != null) {
                     this.last_media.Dispose();
-                }
+                }*/
 
                 if(!reset) {
                     web.MediaPlayer = new MediaPlayer(media) { EnableHardwareDecoding = true };
                     set_end = true;
                 } else {
+                    web.MediaPlayer.Media = null;
                     web.MediaPlayer.Media = media;
                     //this.last_media = web.MediaPlayer.Media;
                 }
-                this.last_media = web.MediaPlayer.Media;
-
+                //this.last_media = web.MediaPlayer.Media;
+                media.Dispose();
             }
 
             web.MediaPlayer.Play();
