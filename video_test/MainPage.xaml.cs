@@ -17,10 +17,11 @@ namespace video_test
     {
         private List<string> playlist = new List<string>() {
             //add playlist here
+
         };
         private LibVLC lib_vlc;
 
-        public MainPage() {
+         public MainPage() {
             InitializeComponent();
 
             Core.Initialize();
@@ -80,7 +81,7 @@ namespace video_test
                     //this.last_media = web.MediaPlayer.Media;
                 }
                 //this.last_media = web.MediaPlayer.Media;
-                media.Dispose();
+                //media.Dispose();
             }
 
             web.MediaPlayer.Play();
